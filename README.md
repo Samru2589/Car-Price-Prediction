@@ -44,7 +44,7 @@ pip install -r requirements.txt
 - requirements.txt     # Python dependencies
 - README.md            # Project documentation
 
-## **Model Details**
+**Model Details**
 Used **Linear Regression** and **Random Forest Regressor**  
 Achieved **R² score of 0.91** on test data  
 RMSE: **15,000 INR**
