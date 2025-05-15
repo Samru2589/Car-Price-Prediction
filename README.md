@@ -44,10 +44,10 @@ pip install -r requirements.txt
 - requirements.txt     # Python dependencies
 - README.md            # Project documentation
 
-## Model Details
-Used Linear Regression and Random Forest Regressor
-Achieved R² score of 0.91 on test data
-RMSE: 15,000 INR
+## **Model Details**
+Used **Linear Regression** and **Random Forest Regressor**  
+Achieved **R² score of 0.91** on test data  
+RMSE: **15,000 INR**
 
 ## License
 This project is licensed under the MIT License.
